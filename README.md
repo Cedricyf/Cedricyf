@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cedricyf
+- 👋 Hi, I’m Fan
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently a student in Uchicago
 - 💞️ I’m looking to collaborate on any data science project related to healthcare
